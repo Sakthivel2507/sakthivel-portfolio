@@ -176,7 +176,13 @@ body{
     .skills--container{
         width: 100%;
     }
+    .intro--name{
+        font-size: 60px;
+        letter-spacing: .1em;
+        font-weight: 700;
+        line-height: .9em;
 
+    }
    
 }
 
@@ -187,5 +193,12 @@ body{
     .skill--wrapper{
         flex-flow: column;
         
+    }
+     .intro--name{
+        font-size: 40px;
+        letter-spacing: .1em;
+        font-weight: 700;
+        line-height: .9em;
+
     }
 }
